@@ -38,4 +38,3 @@ you will find a JSON report for JGiven output:
 
 `jgiven-reports/TestCalculatorJgiven.json`
 
-test
