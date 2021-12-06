@@ -40,4 +40,4 @@ you will find a JSON report for JGiven output:
 
 testing
 
-test for demo
+test for demo 2
