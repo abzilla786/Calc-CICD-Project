@@ -38,6 +38,4 @@ you will find a JSON report for JGiven output:
 
 `jgiven-reports/TestCalculatorJgiven.json`
 
-test without password
-
-once more
+test since changes to check if CICD is still working
