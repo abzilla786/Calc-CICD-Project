@@ -1,0 +1,98 @@
+{
+  "className": "TestCalculatorJgiven",
+  "name": "Test Calculator Jgiven",
+  "scenarios": [
+    {
+      "className": "TestCalculatorJgiven",
+      "testMethodName": "testCalculatorEdition",
+      "description": "Test calculator edition",
+      "tagIds": [],
+      "explicitParameters": [],
+      "derivedParameters": [],
+      "casesAsTable": false,
+      "scenarioCases": [
+        {
+          "caseNr": 1,
+          "steps": [
+            {
+              "name": "get initialised calculator object",
+              "words": [
+                {
+                  "value": "Given",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "get initialised calculator object"
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 3377167,
+              "depth": 0,
+              "parentFailed": false
+            },
+            {
+              "name": "addition is tested using",
+              "words": [
+                {
+                  "value": "When",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "addition is tested using"
+                },
+                {
+                  "value": "2",
+                  "argumentInfo": {
+                    "argumentName": "num1",
+                    "formattedValue": "2"
+                  }
+                },
+                {
+                  "value": "2",
+                  "argumentInfo": {
+                    "argumentName": "num2",
+                    "formattedValue": "2"
+                  }
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 2564664,
+              "depth": 0,
+              "parentFailed": false
+            },
+            {
+              "name": "assert calculator result is correct",
+              "words": [
+                {
+                  "value": "Then",
+                  "isIntroWord": true
+                },
+                {
+                  "value": "assert calculator result is correct"
+                },
+                {
+                  "value": "4",
+                  "argumentInfo": {
+                    "argumentName": "expectedAnswer",
+                    "formattedValue": "4"
+                  }
+                }
+              ],
+              "status": "PASSED",
+              "durationInNanos": 1853048,
+              "depth": 0,
+              "parentFailed": false
+            }
+          ],
+          "explicitArguments": [],
+          "derivedArguments": [],
+          "status": "SUCCESS",
+          "durationInNanos": 27214922
+        }
+      ],
+      "durationInNanos": 27214922,
+      "executionStatus": "SUCCESS"
+    }
+  ],
+  "tagMap": {}
+}

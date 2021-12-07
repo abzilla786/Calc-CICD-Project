@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCalculatorJgiven" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-24T21:42:46" hostname="Kierans-MBP-2" time="0.416">
+  <properties/>
+  <testcase name="testCalculatorEdition()" classname="TestCalculatorJgiven" time="0.416"/>
+  <system-out><![CDATA[
+Test Class: TestCalculatorJgiven
+
+ Test calculator edition
+
+   Given get initialised calculator object
+    When addition is tested using 2 2
+    Then assert calculator result is correct 4
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
