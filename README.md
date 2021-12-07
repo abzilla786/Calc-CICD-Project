@@ -38,6 +38,5 @@ you will find a JSON report for JGiven output:
 
 `jgiven-reports/TestCalculatorJgiven.json`
 
-testing
+test without password
 
-test for demo 2
